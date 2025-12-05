@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1568" height="1138" alt="截屏2025-12-05 13 35 24" src="https://github.com/user-attachments/assets/6092c383-f726-438e-93bf-9932a1ce94aa" /><div align="center">
 
 # 💰 电商财务通
 
@@ -231,12 +231,15 @@ npm run dev
 
 ### 数据导入页面
 干净简洁的上传界面，支持拖拽文件。
+<img width="1568" height="1146" alt="截屏2025-12-05 13 34 55" src="https://github.com/user-attachments/assets/08de24ad-da87-4c43-a320-f9b82dbf7fd5" />
 
 ### 对账结果页面
 清晰展示每笔订单的对账状态，支持筛选和导出。
+<img width="1556" height="1146" alt="截屏2025-12-05 13 35 37" src="https://github.com/user-attachments/assets/2aa066ee-bf13-48e4-8da9-dc5774690981" />
 
 ### 财务分析看板
 关键指标卡片 + 可视化图表，一目了然。
+![Uploading 截屏2025-12-05 13.35.51.png…]()
 
 ---
 
