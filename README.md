@@ -1,4 +1,4 @@
-<img width="1568" height="1138" alt="截屏2025-12-05 13 35 24" src="https://github.com/user-attachments/assets/6092c383-f726-438e-93bf-9932a1ce94aa" /><div align="center">
+<img width="1570" height="1144" alt="截屏2025-12-05 13 36 45" src="https://github.com/user-attachments/assets/f06a5ad8-d61f-4fb6-a6dd-f693fbbf30bf" /><img width="1570" height="1144" alt="截屏2025-12-05 13 36 45" src="https://github.com/user-attachments/assets/614c83e0-e884-4f66-9ece-a8782065f8be" /><img width="1570" height="1144" alt="截屏2025-12-05 13 36 45" src="https://github.com/user-attachments/assets/891d0f31-4a32-4250-be63-7061fa265b09" /><img width="1570" height="1144" alt="截屏2025-12-05 13 36 45" src="https://github.com/user-attachments/assets/baa0bf77-9971-4514-8a5b-7e01f9ab1293" /><img width="1568" height="1138" alt="截屏2025-12-05 13 35 24" src="https://github.com/user-attachments/assets/6092c383-f726-438e-93bf-9932a1ce94aa" /><div align="center">
 
 # 💰 电商财务通
 
@@ -239,7 +239,8 @@ npm run dev
 
 ### 财务分析看板
 关键指标卡片 + 可视化图表，一目了然。
-![Uploading 截屏2025-12-05 13.35.51.png…]()
+<img width="1554" height="1083" alt="截屏2025-12-05 13 37 28" src="https://github.com/user-attachments/assets/dcfd57b3-6558-41af-aca2-88f5ae626d9d" />
+
 
 ---
 
