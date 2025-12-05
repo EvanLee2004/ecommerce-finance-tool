@@ -298,8 +298,8 @@ npm run dev
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 📧 邮箱：your-email@example.com
-- 🐛 Issue：[GitHub Issues](https://github.com/你的用户名/电商财务通/issues)
+- 📧 邮箱：lmh20251202@gmail.com
+- 🐛 Issue：[GitHub Issues](https://github.com/EvanLee0321/ecommerce-finance-tool/issues)
 
 ---
 
@@ -313,6 +313,6 @@ npm run dev
 
 **用心打造，让电商财务管理更简单** ❤️
 
-Made with ❤️ by [你的名字]
+Made with ❤️ by EvanLee
 
 </div>
